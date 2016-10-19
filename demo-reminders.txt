@@ -1,0 +1,65 @@
+1. create container, add vim, commit new image
+
+docker run -it ubuntu
+cat /etc/*release
+
+docker run -it centos
+cat /etc/*release
+
+docker images
+docker ps -a
+
+docker start name -i
+vi
+apt-get update
+apt-get install vim
+vi
+
+docker commit name mjsmith1028/vimbuntu
+docker images
+docker login
+docker commit name mjsmith1028/vimbuntu
+docker push mjsmith1028/vimbuntu
+docker rm $(docker ps -aq)
+docker rmi $(docker images -q)
+docker images
+docker pull mjsmith1028/vimbuntu
+docker images
+docker run -it mjsmith1028/vimbuntu
+vi
+
+2. dockerhub whalesay
+docker run docker/whalesay cowsay "Hey everyone!"
+
+3. docker file example
+cd ~/gitrepos/github/docker-presentation/docker-file-example/
+docker build .
+subl .
+docker build -t mjsmith1028/simple-app .
+docker run -d -p 80:8080 mjsmith1028/simple-app
+docker ps
+docker stop name
+docker run -d -p 80:8080 -v /home/mike/gitrepos/github/docker-presentation/docker-file-example/webapps/:/var/lib/tomcat7/webapps/ mjsmith1028/simple-app
+subl .
+docker ps
+docker stop name
+
+4. poetry scale example
+cd ~/gitrepos/github/docker-presentation/dockercon16/
+docker-compose build
+docker images
+docker-compose up -d
+docker ps
+subl .
+docker-compose scale words-java=20
+docker ps
+docker-compose scale words-java=50
+docker ps
+docker-compose scale words-java=1
+docker ps
+docker-compose down
+
+
+
+
+

@@ -1,0 +1,76 @@
+body {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	background-color: #e9f0f1;
+}
+
+.sentence {
+	margin: 100px auto 0 auto;
+}
+
+.line {
+	margin-bottom: 30px;
+	transform: translateX(-100%);
+}
+
+.slide-in {
+    animation: slide-in .5s forwards ease-in;
+}
+
+.line3.slide-in {
+    animation: slide-in 1s forwards ease-in;
+}
+
+.line2.slide-in {
+    animation: slide-in 1.2s forwards ease-in;
+}
+
+@keyframes slide-in {
+  100% { transform: translateX(0%); }
+}
+
+.result {
+	position: relative;
+	display: inline-block;
+	padding: 0 20px;
+	margin: 0 8px;
+	color: white;
+	box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.3);
+	height: 175px;
+	width: 330px;
+}
+
+.result .word {
+	display: inline-block;
+	font-family: 'Gotham Rounded SSm A', 'Gotham Rounded SSm B', sans-serif;
+	font-size: 40px;
+	color: white;
+	line-height: 175px;
+	height: 175px;
+	vertical-align: middle;
+}
+
+.result .hostname {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	bottom: 5px;
+	font-size: 0.8em;
+	height: 14px;
+}
+
+.noun {
+	background-color: rgb(255, 25, 79);
+	transform: rotate(1deg);
+}
+
+.verb {
+	background-color: rgb(36, 175, 255);
+	transform: rotate(-1deg);
+}
+
+.adjective {
+	background-color: rgb(57, 77, 83);
+	transform: rotate(-1deg);
+}

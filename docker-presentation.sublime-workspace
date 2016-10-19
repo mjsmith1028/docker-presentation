@@ -1,0 +1,514 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 125.0,
+		"last_filter": "package reou",
+		"selected_items":
+		[
+			[
+				"package reou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"view as html",
+				"SublimeHighlight: view as HTML"
+			],
+			[
+				"sublimehighligh",
+				"SublimeHighlight: convert to HTML"
+			],
+			[
+				"sublimehighli",
+				"SublimeHighlight: view as HTML"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"expor",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"export",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"instlal pa",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimehighlight",
+				"SublimeHighlight: copy to clipboard as RTF"
+			],
+			[
+				"highlightrtf",
+				"SublimeHighlight: view as RTF"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git add all",
+				"Git: Add All"
+			],
+			[
+				"git add",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"gitstatus",
+				"Git: Status"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"prvo",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"git quick com",
+				"Git: Quick Commit"
+			],
+			[
+				"git add cur",
+				"Git: Add Current File"
+			],
+			[
+				"git quick commit",
+				"Git: Quick Commit"
+			],
+			[
+				"gqc",
+				"Git: Quick Commit"
+			],
+			[
+				"git acf",
+				"Git: Update Project Ignored Files"
+			],
+			[
+				"gitqc",
+				"Git: Quick Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add All"
+			],
+			[
+				"gitpush",
+				"Git: Push"
+			],
+			[
+				"gitacf",
+				"Git: Update Project Ignored Files"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add cu",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"g",
+				"Git: Add All"
+			],
+			[
+				"git add current file",
+				"Git: Add Current File"
+			],
+			[
+				"gil",
+				"Git: Log Current File"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"listpac",
+				"Package Control: List Packages"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pcre",
+				"Package Control: Remove Package"
+			],
+			[
+				"liver",
+				"LiveReload: Self test"
+			],
+			[
+				"installpack",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 525.0
+	},
+	"console":
+	{
+		"height": 406.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mike/gitrepos/github/docker-presentation"
+	],
+	"file_history":
+	[
+		"/home/mike/gitrepos/github/docker-presentation/docker-file-example/whalesay-example.txt",
+		"/home/mike/gitrepos/github/docker-presentation/demo-reminders.txt",
+		"/home/mike/gitrepos/github/docker-presentation/instructions.sublime-",
+		"/home/mike/gitrepos/github/docker-presentation/hello-world-instructions.txt",
+		"/home/mike/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/mike/.config/sublime-text-3/Packages/Theme - Soda/Soda Dark 3.sublime-theme",
+		"/home/mike/.config/sublime-text-3/Packages/User/GitGutter.sublime-settings",
+		"/home/mike/.config/sublime-text-3/Packages/User/JsFormat.sublime-settings",
+		"/home/mike/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/media/mike/KINESIS KB/active/qwerty.txt",
+		"/media/mike/KINESIS KB/active/state.txt",
+		"/home/mike/.bash_completion",
+		"/home/mike/.bash_colors",
+		"/home/mike/Downloads/bashrc",
+		"/home/mike/.bashrc",
+		"/home/mike/.bash_functions",
+		"/home/mike/Desktop/linux-install.txt",
+		"/home/mike/Downloads/.bahrc",
+		"/home/mike/mean_tutorial/Vidzy/public/partials/video-form.html",
+		"/home/mike/mean_tutorial/Vidzy/routes/videos.js",
+		"/home/mike/mean_tutorial/Vidzy/public/partials/home.html",
+		"/home/mike/mean_tutorial/Vidzy/views/layout.jade",
+		"/home/mike/mean_tutorial/Vidzy/public/javascripts/vidzy.js",
+		"/home/mike/.config/sublime-text-3/Packages/User/SublimeHighlight.sublime-settings",
+		"/home/mike/.config/sublime-text-3/Packages/Highlight/SublimeHighlight.sublime-settings",
+		"/home/mike/.config/sublime-text-3/Packages/Highlight/README.md",
+		"/home/mike/.config/sublime-text-3/Packages/ExportHtml/ExportHtml.sublime-settings",
+		"/home/mike/.config/sublime-text-3/Packages/User/ExportHtml.sublime-settings",
+		"/tmp/tmpgmiqz1.html",
+		"/home/mike/mean_tutorial/Vidzy/views/index.jade",
+		"/home/mike/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/mike/mean_tutorial/Vidzy/routes/index.js",
+		"/home/mike/mean_tutorial/Vidzy/package.json",
+		"/home/mike/gitrepos/config/sublime/Preferences.sublime-settings",
+		"/home/mike/gitrepos/config/sublime/Package Control.sublime-settings",
+		"/home/mike/.config/sublime-text-3/Packages/User/Base File.sublime-settings",
+		"/home/mike/gitrepos/config/sublime/Default (Linux).sublime-keymap",
+		"/home/mike/gitrepos/config/sublime/Package Control.user-ca-bundle",
+		"/home/mike/gitrepos/config/sublime/Monokai Soda.tmTheme",
+		"/home/mike/gitrepos/config/sublime/JsFormat.sublime-settings",
+		"/home/mike/gitrepos/config/sublime/sublime_setup.md",
+		"/home/mike/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/mike/.config/sublime-text-3/Packages/User/Markdown.sublime-settings",
+		"/home/mike/learnyounode/ex11.js",
+		"/home/mike/learnyounode/node_modules/through2-map/node_modules/through2/package.json",
+		"/home/mike/.config/sublime-text-3/Packages/User/Monokai Soda.tmTheme",
+		"/home/mike/.config/sublime-text-3/Packages/Theme - Default/Default.sublime-theme",
+		"/home/mike/learnyounode/ex13.js",
+		"/home/mike/learnyounode/ex12.js",
+		"/home/mike/gitrepos/config/bash/common/.bash_colors",
+		"/home/mike/gitrepos/config/bash/cygwin/home/.bashrc",
+		"/home/mike/gitrepos/config/vim/vim_setup.md",
+		"/home/mike/gitrepos/config/README.md",
+		"/home/mike/gitrepos/config/bash/cygwin/home/.bash_profile",
+		"/home/mike/gitrepos/config/bash/cygwin/home/.minttyrc",
+		"/home/mike/Downloads/exrc",
+		"/home/mike/gitrepos/config/vim/.vimrc",
+		"/home/mike/gitrepos/config/vim/.vim/.netrwhist",
+		"/home/mike/gitrepos/config/bash/common/.bash_completion",
+		"/home/mike/gitrepos/config/bash/common/.exrc",
+		"/home/mike/gitrepos/config/bash/common/.vim/colors/distinguished.vim",
+		"/home/mike/Desktop/temp.js",
+		"/home/mike/gitrepos/config/test.txt",
+		"/home/mike/Desktop/temp.md",
+		"/home/mike/.config/sublime-text-3/Packages/User/LiveReload.sublime-settings",
+		"/home/mike/.config/sublime-text-3/Packages/LiveReload/web/test.html",
+		"/home/mike/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/mike/.profile"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 110.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pendingChangesCount",
+			"behindCommitCount",
+			"aheadCommitCount",
+			"gitBranch",
+			"-----",
+			"\"",
+			"        \"",
+			"caret",
+			"caraet",
+			"cursor",
+			"caret",
+			"cursor",
+			"color",
+			"caret",
+			"trim_trailing_white_space_on_save",
+			"font.size",
+			".vimrc",
+			"- ",
+			"*",
+			"-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".exrc",
+			"*"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 322.0
+	},
+	"pinned_build_system": "",
+	"project": "docker-presentation.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"topolserver.js",
+				"Vidzy/node_modules/monk/node_modules/mongodb/node_modules/mongodb-core/lib/topologies/server.js"
+			],
+			[
+				"index.ja",
+				"Vidzy/views/index.jade"
+			],
+			[
+				"app.js",
+				"Vidzy/app.js"
+			],
+			[
+				"pref",
+				"sublime/Preferences.sublime-settings"
+			],
+			[
+				"pack",
+				"sublime/Package Control.sublime-settings"
+			],
+			[
+				"ex11",
+				"ex11.js"
+			],
+			[
+				"test.txt",
+				"test.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"j",
+				"~/gitrepos/github/docker-presentation/dockercon16/words-java/src/main/java/docker-presentation.sublime-project"
+			],
+			[
+				"",
+				"~/gitrepos/github/docker-presentation/dockercon16/words-java/src/main/java/docker-presentation.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 33.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
