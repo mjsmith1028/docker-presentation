@@ -35,11 +35,11 @@ docker run docker/whalesay cowsay "Hey everyone!"
 cd ~/gitrepos/github/docker-presentation/docker-file-example/
 docker build .
 subl .
-docker build -t mjsmith1028/simple-app .
-docker run -d -p 80:8080 mjsmith1028/simple-app
+docker build -t mjsmith1028/docker-file-example .
+docker run -d -p 80:8080 mjsmith1028/docker-file-example
 docker ps
 docker stop name
-docker run -d -p 80:8080 -v /home/mike/gitrepos/github/docker-presentation/docker-file-example/webapps/:/var/lib/tomcat7/webapps/ mjsmith1028/simple-app
+docker run -d -p 80:8080 -v $(pwd)/webapps/:/var/lib/tomcat7/webapps/ mjsmith1028/docker-file-example
 subl .
 docker ps
 docker stop name
